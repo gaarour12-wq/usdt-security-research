@@ -1,0 +1,15 @@
+{
+  "name": "USDT Token List",
+  "timestamp": "2026-04-30T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x5c1D1F8b05B99C64281B08A93beb7B7D1B5096cD",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://ipfs.filebase.io/ipfs/QmQaEkHHNUgXdMfXfLyvvAVnA7tw839B7CE6nDC5T9ytn4"
+    }
+  ]
+}
